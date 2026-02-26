@@ -11,10 +11,11 @@
 | проснуться | поспать | покушать | помыться |
 | позавтракать | поиграть | сходить в магазин | поспать |
 
-## Фото: 
+## Фото:
 
-![текст](https://i.pinimg.com/originals/44/34/bb/4434bbd48fb9ad134a4ba6eb3b03cf80.jpg)
+<img width="300" height="360" alt="image" src="https://github.com/user-attachments/assets/8645b758-8565-4e77-831d-dc35c365d2e9" />
+
 
 ## Любимый корм:
 
-*Картошка*
+*Спички*
